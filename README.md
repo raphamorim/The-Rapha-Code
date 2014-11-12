@@ -1,7 +1,7 @@
 # The Rapha Code
 
-- [Intro](#Intro)
-- [Rules](#Rules)
+- [Intro](#intro)
+- [Rules](#rules)
 
 ## Intro:
 In popular culture, the Rapha Code refers to an etiquette for geeks/otakus to follow. 
