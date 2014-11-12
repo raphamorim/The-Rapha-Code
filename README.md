@@ -9,7 +9,7 @@ In popular culture, the Rapha Code refers to an etiquette for geeks/otakus to fo
 
 ## Rules:
 
-**3** - Everything in excess is bad
+**3** - Anything in excess is bad
 
 **17** - Bros before hoes
 
