@@ -9,4 +9,6 @@ In popular culture, the Rapha Code refers to an etiquette for geeks/otakus to fo
 
 ## Rules:
 
+**17** - Bros before hoes
+
 **43** - Every character in anime/manga with white hair is cool
