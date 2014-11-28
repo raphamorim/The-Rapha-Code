@@ -14,3 +14,5 @@ In popular culture, the Rapha Code refers to an etiquette for geeks/otakus to fo
 **17** - Bros before hoes
 
 **43** - Every character in anime/manga with white hair is cool
+
+**44** - Every movie with Russell Crowe is good/awesome
